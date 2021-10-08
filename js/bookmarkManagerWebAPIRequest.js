@@ -1,5 +1,5 @@
 //const apiBaseURL = "http://localhost:5000/api/Bookmarks";
-const apiBaseURL= "https://glitch.com/edit/#!/ambiguous-peaceful-broccoli?path=README.md%3A1%3A0";
+const apiBaseURL= "https://nostalgic-trusted-square.glitch.me";
 
 function webAPI_getBookmarks(successCallBack, errorCallBack) {
   $.ajax({
